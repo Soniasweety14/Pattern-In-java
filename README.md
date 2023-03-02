@@ -1,2 +1,2 @@
 # Pattern-In-java
-Here are few little hard pattern in java language which are little hard but not that easy to solve
+Here are 10 little hard pattern in java language which are little hard but not that easy to solve
